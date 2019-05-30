@@ -12,3 +12,7 @@ These examples of Software Design Patterns are written in Java and are inspired 
 * **Decorator Pattern**: A decorator object wraps another object to provide additional functionality dynamically at runtime. In this example, a home construction company builds homes with different specifications. This allows an alternative to using subclasses. 
 
 ![Decorator UML - Home Construction](docs/Decorator-UML.png)
+
+* **Composite Pattern**: Objects are composed using tree structures, which allow for the representation of whole-part hierarchies. The benefit is that individual objects and compositions are treated uniformly. 
+
+![Composite UML - Computer Architecture](docs/Composite-UML.png)
